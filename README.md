@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Rizky Lexsi!
-Currently working as QA Engineer, Having knowledge to create web automation using Cypress and Katalon Studio. API Testing using Postman, And having knowledge about Project Management Tools such a Clickup and Asana..
+Currently working as QA Engineer, Having knowledge to create web automation using Cypress and Katalon Studio. API Testing using Postman, Database Testing using Dbeaver, And having knowledge about Project Management Tools such a Clickup and Asana..
 
 # Table of contents
 <!--ts-->
@@ -37,7 +37,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
 ![Katalon Studio](https://img.shields.io/badge/-katalon_studio-181717?style=for-the-badge&logo=katalon)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
-![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/-postman-#FF6C37?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-insomnia-181717?style=for-the-badge&logo=insomnia)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -46,7 +46,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 🔗Connect
 <p>
-    <a href="www.linkedin.com/in/rizky-febdriasyah-lexsi-973267243" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/rizky-febdriasyah-lexsi" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 
