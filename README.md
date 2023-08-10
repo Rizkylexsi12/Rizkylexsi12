@@ -38,6 +38,8 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Katalon Studio](https://img.shields.io/badge/-katalon_studio-181717?style=for-the-badge&logo=katalon)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-#FF6C37?style=for-the-badge&logo=postman)
+![Postman](https://img.shields.io/badge/:badgeContent?logo=postman&color=%23FF6C37
+)
 ![Insomnia](https://img.shields.io/badge/-insomnia-181717?style=for-the-badge&logo=insomnia)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
