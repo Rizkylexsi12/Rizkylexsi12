@@ -34,6 +34,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 🔨Tools
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
