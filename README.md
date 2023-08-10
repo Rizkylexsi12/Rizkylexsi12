@@ -41,12 +41,12 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Insomnia](https://img.shields.io/badge/-insomnia-181717?style=for-the-badge&logo=insomnia)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-181717.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/rizky-febdriasyah-lexsi" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin"/></a>
+    <a href="https://www.linkedin.com/in/rizky-febdriasyah-lexsi" target="blank"><img src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 
