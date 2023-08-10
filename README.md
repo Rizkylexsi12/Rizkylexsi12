@@ -34,9 +34,11 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ## 🔨Tools
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
-![Javascript](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
+![Katalon Studio](https://img.shields.io/badge/-katalon-181717?style=for-the-badge&logo=katalon)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
+![Insomnia](https://img.shields.io/badge/-insomnia-181717?style=for-the-badge&logo=insomnia)
 ![MySQL](https://img.shields.io/badge/-mysql-181717?style=for-the-badge&logo=mysql)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
