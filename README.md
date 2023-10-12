@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Rizky Lexsi!
-Currently working as QA Engineer, Having knowledge to create web automation using Cypress and Katalon Studio. API Testing using Postman, Database Testing using Dbeaver, And having knowledge about Project Management Tools such a Clickup and Asana..
+Currently working as QA Engineer, Having knowledge to create web automation using Cypress, Katalon Studio, and Robot Framework. API Testing using Postman, Database Testing using Dbeaver, And having knowledge about Project Management Tools such a Clickup and Asana..
 
 # Table of contents
 <!--ts-->
