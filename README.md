@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Rizky Lexsi!
-Currently working as QA Engineer, Having knowledge to create web automation using Cypress, Katalon Studio, and Robot Framework. API Testing using Postman, Database Testing using Dbeaver, And having knowledge about Project Management Tools such a Clickup and Asana..
+Currently working as QA Engineer, Having knowledge to create web automation using Robot Framework, Cypress, and Katalon Studio. API Testing using Postman, Database Testing using Dbeaver, And having knowledge about Project Management Tools such a Clickup and Asana..
 
 # Table of contents
 <!--ts-->
@@ -32,7 +32,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 </a>
 </p>
 
-## 🔨Tools
+## 🔨Tools that i used
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
 ![Katalon Studio](https://img.shields.io/badge/-katalon_studio-181717?style=for-the-badge&logo=katalon)
@@ -44,13 +44,13 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-181717.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </details>
 
-## 🔗Connect
+## 🔗Lets Connect!!
 <p>
     <a href="https://www.linkedin.com/in/rizky-febdriasyah-lexsi" target="blank"><img src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 
-### 📝Contact me!
+### 📫 How to reach me
 <p>
     <a href="mailto: rizkylexsi@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
